@@ -1,6 +1,7 @@
 {
     "name": "saltrc/alipay",
-    "description": "P5#支付宝即时到帐",
+    "description": "TP5#支付宝即时到帐",
+    "license": "MIT",
     "require": {
         "php": ">=5.4"
     },
