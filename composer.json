@@ -1,0 +1,19 @@
+{
+    "name": "saltrc/alipay",
+    "description": "P5#支付宝即时到帐",
+    "require": {
+        "php": ">=5.4"
+    },
+    "authors": [
+        {
+            "name": "saltrc",
+            "email": "xian-w@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Alipay\\": "src/Alipay/"
+        }
+    }
+}
