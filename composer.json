@@ -1,5 +1,5 @@
 {
-    "name": "saltrc/alipay",
+    "name": "saltrc/thinkphp-alipay",
     "description": "TP5#支付宝即时到帐",
     "license": "MIT",
     "require": {
